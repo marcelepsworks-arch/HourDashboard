@@ -1,0 +1,5 @@
+{
+  "name": "Marcel's Dashboard",
+  "description": "A comprehensive, client-side monthly reporting dashboard tracking activities, hours, objectives, and news with CSV persistence.",
+  "requestFramePermissions": []
+}
